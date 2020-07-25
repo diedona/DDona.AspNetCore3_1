@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDona.AspNetCore3_1.Api", "DDona.AspNetCore3_1.Api\DDona.AspNetCore3_1.Api.csproj", "{F693336E-9669-4344-B7D2-1C65FD1E6113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F693336E-9669-4344-B7D2-1C65FD1E6113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F693336E-9669-4344-B7D2-1C65FD1E6113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F693336E-9669-4344-B7D2-1C65FD1E6113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F693336E-9669-4344-B7D2-1C65FD1E6113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40044F2E-F5FC-450D-A2F2-EFF9EE6320A5}
+	EndGlobalSection
+EndGlobal
